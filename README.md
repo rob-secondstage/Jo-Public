@@ -1,5 +1,5 @@
-# Jo-Public
+# Turas-Public
 
-This is the place to add issues and requests for Jo. Do so by accessing our issues list [here](https://github.com/rob-secondstage/Jo-Public/issues).
+This is the place to add issues and requests for Turas. Do so by accessing our issues list [here](https://github.com/rob-secondstage/Turas-Public/issues).
 
 Thank you!
